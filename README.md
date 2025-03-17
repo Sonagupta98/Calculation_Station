@@ -1,25 +1,39 @@
-🧮 Calculation Station - A Simple Calculator
+# 🧮 Calculation Station - Your Go-To Simple Calculator
 
-A sleek and user-friendly calculator built with HTML, CSS, and JavaScript. Perform basic arithmetic operations with ease!
+Welcome to **Calculation Station**, a sleek and user-friendly calculator designed to handle your basic arithmetic needs with ease. This project is built with the power of **HTML**, **CSS**, and **JavaScript**.
 
-🚀 Features
-✔️ Addition, Subtraction, Multiplication, and Division
-✔️ Clean and responsive UI
-✔️ Error handling for invalid inputs
+---
 
-🔧 Technologies Used
-HTML5 for structure
-CSS3 for styling
-JavaScript (ES6) for functionality
+## 🚀 Features
 
-📂 How to Run the Project
-Clone the repository:
-sh
-Copy
-Edit
-git clone 
-https://github.com/Sonagupta98/Calculation_Station.git
-Open index.html in your browser.
+- **Addition, Subtraction, Multiplication, and Division**: Perform all your basic arithmetic operations effortlessly.
+- **Clean and Responsive UI**: Enjoy a visually appealing interface that works seamlessly on all devices.
+- **Error Handling**: Robust error handling to manage invalid inputs gracefully.
 
-📢 Contributing
-Feel free to fork this repository and contribute!
+---
+
+## 🔧 Technologies Used
+
+- **HTML5**: For the foundational structure.
+- **CSS3**: For beautiful and responsive styling.
+- **JavaScript (ES6)**: For dynamic functionality and interactivity.
+
+---
+
+## 📂 How to Run the Project
+
+1. **Clone the Repository**:
+   ```sh
+   git clone https://github.com/Sonagupta98/Calculation_Station.git
+   ```
+2. **Open `index.html` in Your Browser**: Navigate to the project directory and open `index.html` to start using the calculator.
+
+---
+
+## 📢 Contributing
+
+We welcome contributions! Feel free to fork this repository, make your changes, and submit a pull request.
+
+---
+
+Thank you for visiting **Calculation Station**! We hope you find it useful and enjoyable.
